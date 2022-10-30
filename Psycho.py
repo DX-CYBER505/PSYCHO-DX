@@ -1,0 +1,2 @@
+import XX
+XX.Main()
